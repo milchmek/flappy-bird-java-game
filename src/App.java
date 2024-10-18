@@ -10,6 +10,6 @@ public class App {
         frame.setSize(boardWidth, boardHeight); // set width and height
         frame.setLocationRelativeTo(null); // set display on center
         frame.setResizable(false); // set cannot resize the window
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set when close the game, the game will exit
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set when close the game, the game will exit.
     }
 }
